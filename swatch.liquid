@@ -1,0 +1,2 @@
+{% assign file_extension = 'png' %}
+background-image:url( {{ value | handle | append: '.' | append: file_extension | asset_url }})
