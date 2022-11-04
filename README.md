@@ -1,0 +1,1 @@
+# custom-image-as-swatches-shopify
